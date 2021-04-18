@@ -2,3 +2,4 @@
 /migrations
 /.vscode
 .env
+/.pytest_cache
